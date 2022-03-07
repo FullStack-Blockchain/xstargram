@@ -2496,7 +2496,11 @@ a:hover .cmnBtn2:before {
 @media screen and (max-width:560px) {
     .recruit-sec-txt-container {
         padding: 50px 20px 40px 25px;
-        max-width: 93%
+        max-width: 93%;
+        width: 100%;
+    }
+    .recruit-sec-txt-container p{
+        letter-spacing: 2px;
     }
 }
 
